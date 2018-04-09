@@ -5,7 +5,7 @@ if (!defined("ZABBIX_CRAWLER")) { die;}
 $DATABASE_HOST = "localhost";
 $DATABASE_USER = "root";
 $DATABASE_PASSWORD = "";
-$DATABASE_SCHEMA = "zabbix_spider";
+$DATABASE_SCHEMA = "zabbix";
 
 //Set this if you want to use a proxy to scanning
 //$proxy = "yourproxyip:3128";
